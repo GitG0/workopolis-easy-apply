@@ -1,0 +1,15 @@
+{
+    "job_titles": [
+        "Entry Level Software Engineer"
+    ],
+    "locations": [
+        "Canada"
+    ],
+    "YOE" : 3,
+    "first_name": "first",
+    "last_name": "last",
+    "phone_number": "000-000-0000",
+    "email": "mail@mail.com",
+    "city": "Canada, ON",
+    "resume_location": "D:\\resume\\2023\\resume.pdf"
+}
