@@ -1,0 +1,10 @@
+/.vscode
+/__pycache__
+/jobs_workopolis.db
+/venv
+config.json
+/config.json
+*.csv
+*.env
+*.json
+/geckodriver.log
